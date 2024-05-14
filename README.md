@@ -17,7 +17,7 @@ As expressões lambda são blocos de código que podem ser tratados como valores
 
 ### Exemplo de Uso
 
-![Trecho de código com Stream API em JAVA](img/captura)
+![Trecho de código com Stream API em JAVA](img/captura.JPG)
 
 Neste exemplo, estamos utilizando a Stream API em conjunto com uma expressão lambda e um método de referência para filtrar e imprimir os nomes que começam com a letra "A".
 
